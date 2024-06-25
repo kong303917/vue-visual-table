@@ -21,6 +21,6 @@ git commit -m 'deploy'
 
 
 # 如果你要部署在 https://&lt;USERNAME&gt;.github.io/&lt;REPO&gt;
-git push -f git@github.com:kong303917/dicom-demo.git main:gh-pages
+git push -f git@github.com:kong303917/vue-visual-table.git gh-pages
 
 cd -
